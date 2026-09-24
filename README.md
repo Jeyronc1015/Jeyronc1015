@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my page! I am a student studying CS & Math. Here I'd like to contribute notes that I make within classes and competitive math I learn outside courses. I'm interested in LEAN the theorem prover as well as AI. I enjoy problem solving and so I spend my time in competitive math and I am transitioning to competitive programming as well. I enjoy building things from the ground up and the problem-solving that goes along with it. 
 
 <!--
 **Jeyronc1015/Jeyronc1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
